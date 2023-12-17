@@ -282,3 +282,6 @@ class Bullet(pygame.sprite.Sprite):
 
 if __name__ == "__main__":
     main()
+"""
+１１、１３
+"""
